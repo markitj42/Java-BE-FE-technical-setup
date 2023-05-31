@@ -53,8 +53,6 @@ To execute the automation tests, follow these steps:
 
 - WebDriver Configuration: By default, the project is set to use the Chrome WebDriver for frontend testing. If you prefer to use Firefox, modify the WebDriver setup in the `BaseTest` class.
 
-- TestNG Configuration: TestNG configuration settings such as parallel execution, thread count, and report generation can be modified in the `testng.xml` file.
-
 ## Contributions
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.

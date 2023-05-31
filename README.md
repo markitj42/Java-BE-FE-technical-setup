@@ -8,7 +8,7 @@ This repository contains an automation testing project built in Java using Selen
 
 - Backend testing with RestAssured: The project also includes test cases and utility classes to perform automated testing of RESTful APIs using RestAssured. This enables you to validate the functionality and response of your backend services.
 
-- TestNG for assertions and test execution: TestNG is utilized as the testing framework for creating and executing test cases. It provides powerful assertion capabilities, test configuration, parallel execution, and reporting.
+- TestNG for assertions and test execution: TestNG is utilized as the testing framework for creating and executing test cases. It provides powerful assertion capabilities, test configuration, parallel execution, data provider and reporting.
 
 ## Prerequisites
 

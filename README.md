@@ -51,7 +51,7 @@ To execute the automation tests, follow these steps:
 
 ## Additional Configuration
 
-- WebDriver Configuration: By default, the project is set to use the Chrome WebDriver for frontend testing. If you prefer to use Firefox, modify the WebDriver setup in the `BaseTest` class.
+- WebDriver Configuration: By default, the project is set to use the Chrome WebDriver for frontend testing. If you prefer to use Firefox or Edge modify the WebDriver setup in the `BaseTest` class.
 
 ## Contributions
 
